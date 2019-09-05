@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahvohtooqu.iofbuildings.org/sitemap.xml
